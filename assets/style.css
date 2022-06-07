@@ -1,0 +1,37 @@
+body{
+    background-color: blue;
+}
+
+@media (max-width: 575px) {
+    .container {
+        background-color: burlywood;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .container {
+        background-color: gold;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .container {
+        background-color: forestgreen;
+    }
+}
+
+
+@media (max-width: 1199px) {
+    .container {
+        background-color: lawngreen;
+    }
+}
+
+
+@media (max-width: 1399px) {
+    /* .container {
+        background-color: seashell;
+    } */
+}

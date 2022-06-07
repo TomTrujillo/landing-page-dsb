@@ -1,0 +1,61 @@
+* {
+    background-color: whitesmoke;
+}
+#header-img {
+    height: 10em;
+}
+
+
+#nav-bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+
+
+#offer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 35px;
+    padding-left: 20px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 233, 70);
+}
+.email {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+h1 {
+    background-image: linear-gradient(to right, yellow 0%, orange 100%), url('w3css.gif');
+    margin-top: 15px;
+    font-style: oblique;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+p{
+    margin-left: 10px;
+}
+
+
+
+#video {
+    background-color: navajowhite;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+
+footer {
+    background-color: rgb(255, 233, 70);
+}
+
